@@ -6,4 +6,6 @@
 
  //Made a couple of different buttons that allow the user to change the DOM
 
-// Pier Review:
+// Peer Review: Daniel Herrera
+
+This webpage has all 10 buttons that satisfies assignment goals. What da Hell button works too.
